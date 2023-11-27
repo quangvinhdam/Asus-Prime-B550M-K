@@ -6,7 +6,7 @@
 - **RAM:** 16GB
 - **Ethernet:** 	Realtek PCIe GbE Family Controller
 - **Sound Card:** 	Realtek ALC897
-- **Disk Drive** NVMe CLR-8W512
+- **Disk Drive:** NVMe CLR-8W512
 
 
 ## ✅ Whats workin'
